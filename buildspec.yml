@@ -16,3 +16,4 @@ artifacts:
   files:
     - app.py
     - buildspec.yml
+    - lambda_handler.py
