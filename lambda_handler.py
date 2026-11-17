@@ -8,6 +8,6 @@ def lambda_handler(event, context):
         "statusCode": 200,
         "body": json.dumps({
             "message": "Hello from AWS CI/CD Pipeline!",
-            "status": "success"
+            "status": "Hello from AWS CI/CD Pipeline - Automatic Deployment Successful!"
         })
     }
