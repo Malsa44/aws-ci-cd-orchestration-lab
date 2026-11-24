@@ -1,7 +1,7 @@
 
 def main():
     print("Hello from AWS CI/CD Lab!")
-    print("Application build successful. Hi Ra Nanna")
+    print("Application build successful. Hi Ra Nanna Vachi MG")
 
 
 def lambda_handler(event, context):
